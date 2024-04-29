@@ -1,1 +1,7 @@
 # high_performance_router_HW2
+
+#參考binary_trie範例程式，接著照PPT的架構呈現出相對應的bitmap
+#創建一個struct叫list_bitmap
+#利用三個函式calculate_bits、build_bitmap_tree、create_bitmap來建立bitmap
+#利用search_bitmap來執行搜尋bitmap的流程
+#上面這兩點都可以計算總共clock數。
